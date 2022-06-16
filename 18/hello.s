@@ -7,3 +7,5 @@ _start:
   int $0x80
 
 # echo $? output 4
+# 1 stand for _exit in system call
+# 4 is the return value

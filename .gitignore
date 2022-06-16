@@ -2,3 +2,6 @@
 .DS_Store
 *.dSYM/
 *.out
+*.o
+*.so
+*.a
